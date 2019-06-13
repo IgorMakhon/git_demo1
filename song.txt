@@ -10,3 +10,5 @@
 Читать на сайте: https://www.gl5.ru/coi-viktor-gruppa-krovi.html
 
 commit feature 1
+
+commit feature 2
